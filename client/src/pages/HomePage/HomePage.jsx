@@ -19,8 +19,8 @@ const HomePage = () => {
 
                 <div class="hero-background"> </div>
                     <div class="hero-content">
-                        <h1 className='hero-header'> Manage your budget, your way</h1>
-                        <p className='hero-subheader'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+                        <h1 className='hero-header'> One coin at a time. </h1>
+                        <p className='hero-subheader'> At CoinKeeper, we believe everyone deserves financial freedom. Master the art of money management, effortlessly track your expenses, and watch your savings grow. CoinKeeper — where smart budgeting meets financial freedom, one coin at a time.  </p>
                         <button id='landing-page-btn'> Get started for free</button>
                     </div>
             </div>
