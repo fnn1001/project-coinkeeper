@@ -2,12 +2,12 @@
 import '../HomePage/HomePage.css'
 
 // LOGO AND IMAGERY
-import image1 from "../../../public/budget.jpg"
-import image2 from "../../../public/dollars.jpg"
-import image3 from "../../../public/wallet.jpg"
-import logo1 from "../../../public/piechart-logo.png"
-import logo2 from "../../../public/dollar-logo.png"
-import logo3 from "../../../public/calculator-logo.png"
+import image1 from "../../images/budget.jpg"
+import image2 from "../../images/dollars.jpg"
+import image3 from "../../images/wallet.jpg"
+import logo1 from "../../images/piechart-logo.png"
+import logo2 from "../../images/dollar-logo.png"
+import logo3 from "../../images/calculator-logo.png"
 
 
 
